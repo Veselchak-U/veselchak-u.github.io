@@ -1,13 +1,10 @@
 {
     "applinks": {
+        "apps": [],
         "details": [
             {
                 "appID": "8294P2F9UK.com.dishare.app",
-                "paths": [ 
-                    "/foodie/*",
-                    "/post/*",
-                    "/auth/reset/*",
-                ]
+                "paths": [ "/foodie/*", "/post/*", "/auth/reset/*" ]
             },
         ]
     }
