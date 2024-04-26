@@ -1,18 +1,18 @@
 {
   "android": {
+    "latest": "2.0.0.14"
     "minimal": "2.0.0.13",
-    "current": "2.0.0.14"
   },
   "ios": {
+    "latest": "2.0.0.14"
     "minimal": "2.0.0.13",
-    "current": "2.0.0.14"
   },
   "windows": {
+    "latest": "2.0.0.14"
     "minimal": "2.0.0.13",
-    "current": "2.0.0.14"
   },
   "web": {
+    "latest": "2.0.0.14"
     "minimal": "2.0.0.13",
-    "current": "2.0.0.14"
   }
 }
