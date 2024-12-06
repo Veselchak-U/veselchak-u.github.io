@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "biz.clublab.poleg",
+      "sha256_cert_fingerprints": [
+        "86:5C:B6:5F:56:D2:9B:83:D6:ED:23:3C:32:CA:6D:D7:46:F4:28:D0:12:12:7B:05:F3:DD:04:F1:9C:CC:72:AE"
+      ]
+    }
+  }
+]
